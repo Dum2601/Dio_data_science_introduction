@@ -1,7 +1,7 @@
 
 # 📊 Dio Data Science Introduction
 
-## 📄 README em Português
+## 📄 Português
 
 Este repositório foi criado como parte dos meus estudos na plataforma de ensino **DIO (Digital Innovation One)**, focado na introdução à Ciência de Dados.
 
@@ -36,16 +36,11 @@ Aqui você encontrará anotações, códigos, exercícios e projetos desenvolvid
 
 ### 🤝 Contribuição
 
-Sinta-se livre para sugerir melhorias, abrir issues ou fazer pull requests.
-
-### 📚 Referências
-
-- [Digital Innovation One (DIO)](https://dio.me/)
-- Materiais e cursos da DIO na trilha de Ciência de Dados.
+Sinta-se livre para sugerir melhorias, abrir issues ou fazer pull requests
 
 ---
 
-## 📄 README in English
+## 📄 English
 
 This repository was created as part of my studies on the **DIO (Digital Innovation One)** platform, focusing on the introduction to Data Science.
 
@@ -81,10 +76,3 @@ Here you will find notes, codes, exercises, and projects developed during the in
 ### 🤝 Contribution
 
 Feel free to suggest improvements, open issues, or submit pull requests.
-
-### 📚 References
-
-- [Digital Innovation One (DIO)](https://dio.me/)
-- Materials and courses from DIO's Data Science track.
-
----
