@@ -21,18 +21,6 @@ Aqui você encontrará anotações, códigos, exercícios e projetos desenvolvid
 - Jupyter Notebook 📓
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn (se utilizado)
-
-### 📁 Estrutura do Repositório
-
-```
-├── notebooks/           # Notebooks dos estudos
-├── datasets/            # Conjuntos de dados utilizados
-├── imagens/             # Imagens para auxiliar na documentação (se houver)
-├── README.md            # Documentação em português
-└── README_en.md         # Documentation in English
-```
 
 ### 🤝 Contribuição
 
@@ -60,18 +48,6 @@ Here you will find notes, codes, exercises, and projects developed during the in
 - Jupyter Notebook 📓
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn (if used)
-
-### 📁 Repository Structure
-
-```
-├── notebooks/           # Study notebooks
-├── datasets/            # Datasets used
-├── imagens/             # Images for documentation (if any)
-├── README.md            # Documentation in Portuguese
-└── README_en.md         # Documentation in English
-```
 
 ### 🤝 Contribution
 
